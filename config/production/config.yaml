@@ -2,6 +2,11 @@
 
 baseURL: https://lareponsed-ecosysteme.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: e577fda8-70f3-4beb-9e73-64a167fa9835
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
